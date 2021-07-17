@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "myproject",
+    "slug": "myproject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.greyron.myproject"
+    }
+  },
+  "name": "myproject"
+}
